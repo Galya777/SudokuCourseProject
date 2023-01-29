@@ -69,6 +69,7 @@ public class User {
         try {
             fw = new PrintWriter("users.txt");
             BufferedWriter bw = new BufferedWriter(fw);
+            bw.write(username);
             bw.write(String.valueOf(score));
             bw.newLine();
             bw.write(time);

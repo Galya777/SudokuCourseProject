@@ -3,15 +3,35 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="4033.0" y="-675.5">server</node>
-    <node x="3788.5" y="-935.5">helpers</node>
-    <node x="4074.5" y="-375.5">client</node>
-    <node x="4105.5" y="-79.5">Main</node>
+    <node x="38.0" y="-55.5">com</node>
+    <node x="4113.0" y="-55.5">server</node>
+    <node x="3928.5" y="-55.5">images</node>
+    <node x="3743.0" y="-55.5">netscape</node>
+    <node x="3581.0" y="-55.5">org</node>
+    <node x="3297.5" y="-55.5">toolbarButtonGraphics</node>
+    <node x="3141.5" y="-55.5">sun</node>
+    <node x="2982.5" y="-55.5">jdk</node>
+    <node x="2779.0" y="-55.5">META-INF</node>
+    <node x="2624.5" y="-55.5">eu</node>
+    <node x="2457.5" y="-55.5">impl</node>
+    <node x="2219.0" y="-55.5">groovyjarjarasm</node>
+    <node x="2059.0" y="-55.5">java</node>
+    <node x="1869.5" y="-55.5">groovy</node>
+    <node x="1695.5" y="-55.5">javax</node>
+    <node x="1534.5" y="-55.5">client</node>
+    <node x="1270.5" y="-55.5">groovyjarjarpicocli</node>
+    <node x="972.5" y="-55.5">groovyjarjarcommonscli</node>
+    <node x="793.0" y="-55.5">javafx</node>
+    <node x="642.0" y="-55.5">net</node>
+    <node x="397.5" y="-55.5">groovyjarjarantlr</node>
+    <node x="205.5" y="-79.5">Main</node>
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic Compact" zoom="0.1918671248568156" showDependencies="true" x="2221.0" y="-73.0" />
-  <SelectedNodes />
+  <settings layout="Hierarchic Compact" zoom="0.2322061953180421" showDependencies="true" x="2142.5" y="-40.0" />
+  <SelectedNodes>
+    <node>Main</node>
+  </SelectedNodes>
   <Categories>
     <Category>Constructors</Category>
     <Category>Fields</Category>
@@ -19,7 +39,7 @@
     <Category>Methods</Category>
     <Category>Properties</Category>
   </Categories>
-  <SCOPE>Project Files</SCOPE>
+  <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>
 
